@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Olá...seja bem vinda(o) ao meu perfil.
+
+Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
+
 <!--
 **crparaizo/crparaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
