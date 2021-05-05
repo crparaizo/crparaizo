@@ -9,8 +9,7 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" />
 </a>
 <br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Cândida Rosa Praizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)]
+[![Linkedin Badge](https://img.shields.io/badge/-CandidaRosaParaizo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crpaaraizo/)]
 
 
 <!--
