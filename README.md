@@ -18,7 +18,7 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 <br/>
 
  ### Visualizações de Perfil :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
 
 <!--
 **crparaizo/crparaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
