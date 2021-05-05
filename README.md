@@ -5,7 +5,7 @@ Olá...seja bem vinda(o) ao meu perfil.
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
 <a href="https://github.com/AVS1508">
-  <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 </a>
 
 
