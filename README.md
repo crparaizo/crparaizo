@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 Olá...seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
