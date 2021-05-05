@@ -10,8 +10,8 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=crparaizo&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=crparaizo&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Most Used Languages">
 </p>
 
 <hr>
