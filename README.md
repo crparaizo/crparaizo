@@ -1,7 +1,10 @@
 <h1 align="center"> Hi there, Cândida Rosa Paraizo na área! 👋 </h1>
 
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/) &nbsp; <a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a> </p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/) &nbsp; <a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a> 
+
+</p>
 
 <hr>
 
