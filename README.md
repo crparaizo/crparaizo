@@ -6,7 +6,7 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 
 <br/>
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+  https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python
 </a>
 <br/>
 
