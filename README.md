@@ -5,10 +5,12 @@ Olá...seja bem vinda(o) ao meu perfil.
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
 <br/>
-<a href="https://github.com/AVS1508">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python
+<a href="https://github.com/crparaizo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" />
 </a>
 <br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Cândida Rosa Praizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)
 
 
 <!--
