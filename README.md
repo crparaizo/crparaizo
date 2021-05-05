@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)
 
+<a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a>
+
+<br/>
+
 Seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
