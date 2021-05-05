@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, Cândida Rosa Paraizo na área! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)
 
-Olá...seja bem vinda(o) ao meu perfil.
+Seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
@@ -17,6 +17,8 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 </a>
 <br/>
 
+ ### Visualizações de Perfil :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 <!--
 **crparaizo/crparaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
