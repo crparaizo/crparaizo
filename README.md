@@ -1,12 +1,14 @@
-### Hi there, Cândida Rosa Paraizo na área! 👋
+<p align="center"> ### Hi there, Cândida Rosa Paraizo na área! 👋 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/) &nbsp; <a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a>
 
 <hr>
 
-Seja bem vinda(o) ao meu perfil.
+<p align="center">
+  Seja bem vinda(o) ao meu perfil.
 
-Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
+  Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
+</p>
 
 <hr>
 
@@ -22,7 +24,7 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 
 <hr>
 
-### Visualizações de Perfil :<br>
+<p align="center"> ### Visualizações de Perfil :<br> </p>
 <p align="center">
  <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
 </p>
