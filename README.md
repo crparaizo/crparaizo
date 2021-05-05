@@ -4,6 +4,11 @@ Olá...seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
+
 <!--
 **crparaizo/crparaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
