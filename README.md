@@ -10,7 +10,7 @@ Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que 
 </a>
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cândida Rosa Praizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)
+[![Linkedin Badge](https://img.shields.io/badge/-Cândida Rosa Praizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)]
 
 
 <!--
