@@ -1,8 +1,6 @@
 ### Hi there, Cândida Rosa Paraizo na área! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/)
-
-<a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/) &nbsp; <a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a>
 
 <br/>
 
@@ -10,16 +8,13 @@ Seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
-<br/>
-<a href="https://github.com/crparaizo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" />
-</a>
-<br/>
+<hr>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=crparaizo&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
 
-<a href="https://github.com/crparaizo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crparaizo&&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
-</a>
-<br/>
+<hr>
 
  ### Visualizações de Perfil :<br>
   <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
