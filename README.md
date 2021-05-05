@@ -2,22 +2,30 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-crparaizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crparaizo/)](https://www.linkedin.com/in/crparaizo/) &nbsp; <a href="https://crparaizo.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://crparaizo.github.io-blue?style=flat&logo=google-chrome"></a>
 
-<br/>
+<hr>
 
 Seja bem vinda(o) ao meu perfil.
 
 Aproveitando que já está daqui, dê uma olhada nos meus projetos...aposto que irá se surpreender!
 
 <hr>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" alt="GitHub Status"/>
-<img src="https://github-readme-stats.vercel.app/api?username=crparaizo&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crparaizo&theme=radical&hide=glsl,python" alt="GitHub Status"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crparaizo&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Most Used Languages">
 </p>
 
 <hr>
 
- ### Visualizações de Perfil :<br>
-  <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
+### Visualizações de Perfil :<br>
+<p align="center">
+ <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
+</p>
 
 <!--
 **crparaizo/crparaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
