@@ -36,7 +36,7 @@
 
 <h4 align="center"> Visualizações de Perfil :<br> </h4>
 <p align="center">
-[![Cândida Rosa Paraizo profile views](https://u8views.com/api/v1/github/profiles/42551305/views/day-week-month-total-count.svg)](https://u8views.com/github/crparaizo)
+<a href="https://u8views.com/github/crparaizo"><img src="https://u8views.com/api/v1/github/profiles/42551305/views/day-week-month-total-count.svg"></a>
 </p>
 
 <!--
