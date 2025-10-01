@@ -31,13 +31,12 @@
 
 <h4 align="center"> Visualizações de Perfil :<br> </h4>
 <p align="center">
- ![](https://komarev.com/ghpvc/?username=crparaizo&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 </p>
 
 <h4 align="center"> Visualizações de Perfil :<br> </h4>
 <p align="center">
- [![Visitas](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
-
+[![Visitas](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
 </p>
 
 <!--
