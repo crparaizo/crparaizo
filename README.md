@@ -31,11 +31,6 @@
 
 <h4 align="center"> Visualizações de Perfil :<br> </h4>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=crparaizo&color=blueviolet)
-</p>
-
-<h4 align="center"> Visualizações de Perfil :<br> </h4>
-<p align="center">
 <a href="https://u8views.com/github/crparaizo"><img src="https://u8views.com/api/v1/github/profiles/42551305/views/day-week-month-total-count.svg"></a>
 </p>
 
