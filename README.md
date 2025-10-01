@@ -31,7 +31,13 @@
 
 <h4 align="center"> Visualizações de Perfil :<br> </h4>
 <p align="center">
- <img src="https://profile-counter.glitch.me/crparaizo/count.svg" />
+ ![](https://komarev.com/ghpvc/?username=crparaizo&color=blueviolet)
+</p>
+
+<h4 align="center"> Visualizações de Perfil :<br> </h4>
+<p align="center">
+ [![Visitas](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
+
 </p>
 
 <!--
